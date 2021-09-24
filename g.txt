@@ -1,2 +1,0 @@
-getter
-hello from master branch
